@@ -1,0 +1,6 @@
+[package]
+name = "associatedtypes"
+version = "0.1.0"
+authors = ["Ryan Bair <rbair@trafficland.com>"]
+
+[dependencies]
